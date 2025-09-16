@@ -29,11 +29,6 @@ $result = $app->process($data);
 echo $result;
 ```
 
-### Características Principales
-- **Característica 1**: Descripción de la característica 1
-- **Característica 2**: Descripción de la característica 2
-- **Característica 3**: Descripción de la característica 3
-
 ## Contribución
 Las contribuciones son bienvenidas. Por favor, sigue estos pasos:
 
@@ -47,7 +42,7 @@ Las contribuciones son bienvenidas. Por favor, sigue estos pasos:
 Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
 
 ## Contacto
-Tu Nombre - [@tu_twitter](https://twitter.com/tu_twitter) - email@ejemplo.com
+Rafa Cordero - [@Rafacrdr](https://twitter.com/rafacrdr) - corderorafa0@gmail.com
 
-Link del proyecto: [https://github.com/tu-usuario/proyecto-php](https://github.com/tu-usuario/proyecto-php)
+Link del proyecto: [[https://github.com/tu-usuario/proyecto-php](https://github.com/Pipkonx/PHP?tab=readme-ov-file)]([https://github.com/tu-usuario/proyecto-php](https://github.com/Pipkonx/PHP?tab=readme-ov-file))
 Repositorio para practicar y aprender PHP desde cero
