@@ -13,6 +13,8 @@ PHP/
 ## Proyecto: Próxima Película de Marvel
 Aplicación que consume la API de [whenisthenextmcufilm.com](https://whenisthenextmcufilm.com/api) para mostrar información sobre la próxima película del MCU.
 
+**Ver proyecto en vivo:** [cmumarvel.zeabur.app](https://cmumarvel.zeabur.app)
+
 ### Tecnologías
 - PHP (cURL)
 - HTML/CSS
