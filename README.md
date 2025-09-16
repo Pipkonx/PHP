@@ -1,53 +1,26 @@
 # Proyecto PHP
 
 ## Descripción
-Este es un proyecto desarrollado en PHP diseñado para [descripción breve del propósito del proyecto]. Proporciona una solución robusta y escalable para [problema que resuelve].
+Repositorio con ejercicios y proyectos en PHP, incluyendo una aplicación que muestra información sobre próximas películas de Marvel.
 
-## Requisitos
-- PHP 7.4 o superior
-- Servidor web (Apache, Nginx, etc.)
-- MySQL 5.7 o superior
-- Composer
-
-## Instalación
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/proyecto-php.git
-   cd proyecto-php
-   ```
-
-2. Instala las dependencias con Composer:
-   ```bash
-   composer install
-   ```
-
-3. Configura la base de datos:
-   - Crea una base de datos MySQL
-   - Copia el archivo `.env.example` a `.env` y configura las credenciales de la base de datos
-   - Ejecuta las migraciones:
-     ```bash
-     php artisan migrate
-     ```
-
-4. Inicia el servidor de desarrollo:
-   ```bash
-   php artisan serve
-   ```
-
-## Estructura del Proyecto
+## Estructura
 ```
-proyecto-php/
-├── app/            # Lógica principal de la aplicación
-├── config/         # Archivos de configuración
-├── database/       # Migraciones y seeders
-├── public/         # Punto de entrada y assets públicos
-├── resources/      # Vistas, assets sin compilar, etc.
-├── routes/         # Definiciones de rutas
-├── tests/          # Tests automatizados
-└── vendor/         # Dependencias (gestionadas por Composer)
+PHP/
+├── Ejercicios/            # Ejemplos básicos de PHP
+├── Proyectos/             # Proyectos más complejos
+└── README.md
 ```
 
-## Uso
+## Proyecto: Próxima Película de Marvel
+Aplicación que consume la API de [whenisthenextmcufilm.com](https://whenisthenextmcufilm.com/api) para mostrar información sobre la próxima película del MCU.
+
+### Tecnologías
+- PHP (cURL)
+- HTML/CSS
+- [Pico CSS](https://picocss.com/)
+
+## Autor
+[Pipkonx](https://github.com/Pipkonx)
 ### Ejemplo Básico
 ```php
 // Ejemplo de código que muestra cómo usar una funcionalidad principal
